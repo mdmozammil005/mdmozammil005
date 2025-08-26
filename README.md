@@ -1,4 +1,4 @@
-![logo](![Uploading developer.png…]()
+![logo]([![Uploading developer.png…]](https://github.com/mdmozammil005/mdmozammil005/blob/main/developer.png)
 )
 <h1 align="center">Hi 👋, I'm MD MOZAMMIL</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
