@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/mdmozammil005/mdmozammil005/main/developer.png)
 
 <h1 align="center">Hi 👋, I'm MD MOZAMMIL</h1>
-<h3 align="center">A Software Developer from India</h3>
+<h3 align="center">Data Science & Machine Learning Engineering  from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmozammil005&label=Profile%20views&color=0e75b6&style=flat" alt="mdmozammil005" /> </p>
